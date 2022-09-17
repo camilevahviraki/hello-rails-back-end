@@ -1,24 +1,65 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hello-rails-back-end
 
-Things you may want to cover:
+> This is a sample backend Api thats contain some Greetings
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- PostgresSQL
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+  - A web editor like Atom or Vs code
+  - Install ruby and rails
 
-* Deployment instructions
+### Setup
+  - Copy this link `https://github.com/camilevahviraki/hello-rails-back-end`.
+  - Get the directory that you want to clone the repository.
+  - Open the command prompt in this directory.
+  - Write `git clone https://github.com/camilevahviraki/hello-rails-back-end`.
+  - Go to the repository folder in your command prompt `cd hello-rails-back-end`.
 
-* ...
+### Install
+  - run `bundle install` to install dependencies
+
+### Usage
+  - run `rails s` to start the local server.
+
+### Run tests
+  - run `rspec` to run the tests.
+
+
+## Author
+
+👤 **Camile**
+
+- GitHub: [@camilevahviraki](https://github.com/camilevahviraki)
+- Twitter: [@camilevahviraki](https://twitter.com/CamileVahviraki)
+- LinkedIn: [camilevahviraki](https://www.linkedin.com/in/camile-vahviraki)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Microverse
+- Original design idea by Gregoire Vella
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
